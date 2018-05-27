@@ -1,11 +1,11 @@
 # These and other macros are documented in dhd/droid-hal-device.inc
 # Feel free to cleanup this file by removing comments, once you have memorised them ;)
 
-%define device santoni
+%define device rolex
 %define vendor xiaomi
 
 %define vendor_pretty Xiaomi
-%define device_pretty Redmi 4X
+%define device_pretty Redmi 4A
 
 %define droid_target_aarch64 1
 
